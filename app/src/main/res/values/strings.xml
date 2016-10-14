@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">XLSNET</string>
+    <string name="celliderror">Cell id tidak terdaftar.</string>
+    <string name="fileerror">File tidak tersedia.</string>
+    <string name="network_type">NETWORK TYPE</string>
+    <string name="cell_id">CELL ID</string>
+    <string name="mnc">MNC</string>
+    <string name="mcc">MCC</string>
+    <string name="site_name">SITE NAME</string>
+    <string name="sector">SECTOR</string>
+    <string name="btn_process">Proses</string>
+
+    <string name="input_file_hint">Nama file</string>
+    <string name="tips">Tips:</string>
+    <string name="tips1">1. Gunakan berkas EXCEL dengan format/ekstensi xls.</string>
+    <string name="tips2">2. Anda bisa meletakkan file EXCEL pada folder yang bernama MGGDATA, setelah aplikasi dijalankan.</string>
+    <string name="tips3">3. Ketika memasukkan nama file, pastikan untuk tidak disertai dengan ekstensinya, Contoh: XL3G2017</string>
+    <string name="tips4">4. Aplikasi ini hanya dapat digunakan sebelum 10 November 2016</string>
+
+    <string name="unknown_value">Unknown</string>
+    <string name="default_value">0</string>
+
+</resources>
